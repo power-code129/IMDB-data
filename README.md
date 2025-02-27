@@ -65,11 +65,6 @@ python train.py --model emotion
 python predict.py --text "This movie was absolutely fantastic!"
 ```
 
-### Deploying as API (Flask)
-```bash
-python app.py
-```
-Access the API at `http://127.0.0.1:5000/predict`
 
 ## 📅 Future Enhancements
 - Implement real-time IMDb review analysis
